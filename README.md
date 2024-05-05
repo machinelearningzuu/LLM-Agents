@@ -32,3 +32,7 @@
 ### What is a Task?
 - In the crewAI framework, tasks are specific assignments completed by agents. 
 - They provide all necessary details for execution, such as a description, the agent responsible, required tools, and more, facilitating a wide range of action complexities.
+
+### What is a Tool?
+- A tool in CrewAI is a skill or function that agents can utilize to perform various actions. 
+- This includes tools from the crewAI Toolkit and LangChain Tools, enabling everything from simple searches to complex interactions and effective teamwork among agents.
