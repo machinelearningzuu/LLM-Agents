@@ -5,7 +5,7 @@
 2. Make decisions
 3. Communicate with other agents
 
-## 3 Components of a Good Agent
+## Three Components of a Good Agent
 1. Good LLM (GPT-x, Mistral, Claude, Gemini)
 2. Good Tools (Search, Calculate, Comparision, Shell, ...)
 3. Good Agent Frameworks (LangGraph, LlamaIndex, LangChain, CrewAI)
