@@ -1,8 +1,17 @@
-# LLM-Agents
+![image](https://github.com/machinelearningzuu/LLM-Agents/assets/41842488/4d3d5ff0-b98e-45eb-a6b8-fcce2e4b5859)![image](https://github.com/machinelearningzuu/LLM-Agents/assets/41842488/1766da61-7649-4ed6-942a-865ab08eca4e)# LLM-Agents
 
-## Core Concepts of LLM-Agents
+![image](https://alejandro-ao.com/crew-ai-crash-course-step-by-step/crewai-intro_hu88a7dae19e6e4edc447052475e8d7632_37712_1320x0_resize_q75_h2_box_2.webp)
 
-### What is an Agent?
+## Building LLM Agents with Crew AI and More
+
+**In order to set up the LLM Agents (crew), we should consider the following concepts**
+
+### Tasks
+
+These are the tasks that our agents will perform. Each task will be assigned to an agent.
+
+
+### Agent
 1. Perform tasks
 2. Make decisions
 3. Communicate with other agents
@@ -29,10 +38,12 @@
 3. Easy to use
 4. Flexibility
 
-### What is a Task?
-- In the crewAI framework, tasks are specific assignments completed by agents. 
-- They provide all necessary details for execution, such as a description, the agent responsible, required tools, and more, facilitating a wide range of action complexities.
+### Tools
 
-### What is a Tool?
-- A tool in CrewAI is a skill or function that agents can utilize to perform various actions. 
-- This includes tools from the crewAI Toolkit and LangChain Tools, enabling everything from simple searches to complex interactions and effective teamwork among agents.
+These are the tools that our agents will use to perform their tasks. These can be, for example, a search engine, a summarizer, a translator, etc.
+
+### Process
+
+A process dictates the way that our agents will work together. In this case, we will use a sequential process, which means that each agent will work one after the other.
+
+![image](https://alejandro-ao.com/crew-ai-crash-course-step-by-step/crewai-diagram.jpg)
