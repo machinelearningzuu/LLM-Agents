@@ -1,5 +1,3 @@
-![image](https://github.com/machinelearningzuu/LLM-Agents/assets/41842488/4d3d5ff0-b98e-45eb-a6b8-fcce2e4b5859)![image](https://github.com/machinelearningzuu/LLM-Agents/assets/41842488/1766da61-7649-4ed6-942a-865ab08eca4e)# LLM-Agents
-
 ![image](https://alejandro-ao.com/crew-ai-crash-course-step-by-step/crewai-intro_hu88a7dae19e6e4edc447052475e8d7632_37712_1320x0_resize_q75_h2_box_2.webp)
 
 ## Building LLM Agents with Crew AI and More
